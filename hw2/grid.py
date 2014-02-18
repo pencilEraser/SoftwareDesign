@@ -24,3 +24,9 @@ while (n<11):
     n+=1
 
 print "Done"        
+
+'''
+You had a wonderful idea of making printHorizontal and printVertical functions,
+but you could also take it a step further and generalize the script (lines 12-26)
+and make a function draw_grid that lets me print an nxn grid.
+'''

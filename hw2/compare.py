@@ -8,3 +8,6 @@ def compare(x, y):
     else:
         return 0
         
+'''
+Excellent work! No comment here
+'''
