@@ -1,0 +1,20 @@
+Here are the descriptions of the genes found by blast:
+
+surface presentation of antigens protein SpaS [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+-
+secretory protein [Salmonella enterica subsp. enterica serovar Typhi str. CT18] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+-
+surface presentation of antigens protein SpaS [Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+-
+type III secretion system protein SpaS [Salmonella enterica] 
+----the list goes on and on.
